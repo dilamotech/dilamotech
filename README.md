@@ -1,3 +1,4 @@
+<img align = "" width = "" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgfhvsrptuEJjlDP5-r-WCqnm6p3QLge-eViNcz-nUCnFA1J4enYWO_t31_QWrjvSdts&usqp=CAU" alt="FullStackEmbeddedEngineer">
 <h1 align="center">Hi 👋, I'm Dilamo</h1>
 <h3 align="center">An Enthusiastic FullStack Engineer from Ethiopia!</h3>
 <img align = "right" width = "400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc0aHJ5c3N6ZnhtdjNiY3N6OXVrYmtyM3l3dWp6cDhqaTA0MDFmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Engineer">
