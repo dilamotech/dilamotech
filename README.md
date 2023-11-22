@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **a Flutter Developer!**
 
-- ⚡ Fun fact **I enjoy to work crazily, a bit much.**
+- ⚡ Fun fact **I enjoy to work crazily 😅, a bit much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
